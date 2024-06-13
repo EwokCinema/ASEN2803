@@ -12,9 +12,9 @@ function [position, velocity, accel] = straightTrack(theta,v_0,g,s_0,s_f,num_poi
 %
 % Output:
 %
-% position = position vector 
-% velocity = vector of velocity magnitudes along track 
-% accel = acceleration magnitude along track
+% position = position maxtrix along track 
+% velocity = velocity matrix along track 
+% accel = acceleration matrix along track
 %
 %--------------------------------------------------------------------------
 
